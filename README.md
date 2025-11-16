@@ -1,2 +1,3 @@
 # QRcodecomponent.1
-web dev
+web dev project-1
+thankyou.
